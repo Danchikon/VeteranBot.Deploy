@@ -1,0 +1,12 @@
+[submodule "veteran_bot_telegram"]
+	path = veteran_bot_telegram
+	url = git@github.com:Danchikon/VeteranBot.Telegram.git
+[submodule "veteran_bot_gateway"]
+	path = veteran_bot_gateway
+	url = git@github.com:Danchikon/VeteranBot.Gateway.git
+[submodule "veteran_bot_crm"]
+	path = veteran_bot_crm
+	url = git@github.com:nodari-dev/veteran-web-client.git
+[submodule "veteran_bot_viber"]
+	path = veteran_bot_viber
+	url = git@github.com:nodari-dev/veteran-bot-viber.git
